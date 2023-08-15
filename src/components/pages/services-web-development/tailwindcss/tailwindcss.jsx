@@ -16,7 +16,7 @@ const titleItems = [
   { value: 'interface' },
   { value: 'styled' },
   { value: 'with' },
-  { value: 'TailwindCSS', color: '#ee2b6c' },
+  { value: 'TailwindCSS', color: '#dec000' },
 ];
 
 // If you are replacing the code, don't forget to fix the code and remove cursor-pointer classes

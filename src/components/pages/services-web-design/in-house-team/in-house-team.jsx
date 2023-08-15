@@ -7,7 +7,7 @@ import ImagePlaceholder from 'components/shared/image-placeholder';
 import TitleAnimation from 'components/shared/title-animation';
 
 const titleItems = [
-  { value: 'In-house team', color: '#ee2b6c' },
+  { value: 'In-house team', color: '#dec000' },
   { value: 'of' },
   { value: 'motion,' },
   { value: 'graphic,' },

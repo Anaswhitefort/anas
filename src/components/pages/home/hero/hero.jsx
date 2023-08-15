@@ -14,17 +14,15 @@ const STATE_MACHINE_NAME = 'State Machine';
 const INPUT_NAME = 'Fall Trigger';
 
 const firstSectionTitleItems = [
-  { value: 'A' },
-  { value: 'marketing' },
-  { value: 'website' },
-  { value: 'is' },
+  { value: 'I`m' },
+  { value: 'Anas,' },
   { value: 'a' },
-  { value: 'complex', color: '#2b4bee' },
-  { value: 'thing' },
-  { value: 'to' },
-  { value: 'build' },
-  { value: 'on' },
-  { value: 'your own', color: '#ee2b6c' },
+  { value: 'Creative' },
+  { value: 'Digital' },
+  { value: 'Marketer.', color: '#2b4bee' },
+  { value: 'Based' },
+  { value: 'in' },
+  { value: 'Abu Dhabi', color: '#dec000' },
 ];
 
 const secondSectionTitleItems = [
@@ -36,7 +34,7 @@ const secondSectionTitleItems = [
   { value: 'of' },
   { value: 'specialists' },
   { value: 'from' },
-  { value: 'adjacent fields', color: '#ee2b6c' },
+  { value: 'adjacent fields', color: '#dec000' },
 ];
 
 const thirdSectionTitleItems = [
@@ -46,7 +44,7 @@ const thirdSectionTitleItems = [
   { value: 'cherry-picking', color: '#2b4bee' },
   { value: '&' },
   { value: 'managing' },
-  { value: 'freelancers', color: '#ee2b6c' },
+  { value: 'freelancers', color: '#dec000' },
 ];
 
 const Hero = () => {
@@ -133,7 +131,7 @@ const Hero = () => {
 
   return (
     <section
-      className="safe-paddings overflow-hidden bg-black text-white md:py-36 sm:pt-28 sm:pb-20"
+      className="safe-paddings overflow-hidden bg-black text-white md:py-36 sm:pb-20 sm:pt-28"
       ref={wrapperRef}
     >
       <div className="container grid-gap-x relative grid grid-cols-2 md:block" ref={containerRef}>
@@ -163,7 +161,7 @@ const Hero = () => {
             </ImagePlaceholder>
           </div>
           <div
-            className="flex items-center pt-[100px] pb-[500px] lg:pb-[400px] md:mt-36 md:block md:py-0 sm:mt-20"
+            className="flex items-center pb-[500px] pt-[100px] lg:pb-[400px] md:mt-36 md:block md:py-0 sm:mt-20"
             ref={secondSectionRef}
           >
             <TitleAnimation
@@ -190,7 +188,7 @@ const Hero = () => {
             </ImagePlaceholder>
           </div>
           <div
-            className="flex items-center pt-[200px] pb-[360px] lg:pt-[150px] lg:pb-[300px] md:mt-36 md:block md:py-0 sm:mt-20"
+            className="flex items-center pb-[360px] pt-[200px] lg:pb-[300px] lg:pt-[150px] md:mt-36 md:block md:py-0 sm:mt-20"
             ref={thirdSectionRef}
           >
             <TitleAnimation
@@ -218,7 +216,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="md:hidden">
-          <div className="absolute top-0 h-[3000px] w-[1100px] translate-y-[calc(-505px_-_480px_/_2_+_100vh_/_2)] translate-x-[-254px] lg:h-[2307px] lg:w-[846px] lg:translate-y-[calc(-388px_-_369px_/_2_+_100vh_/_2)] lg:translate-x-[-174px] md:hidden">
+          <div className="absolute top-0 h-[3000px] w-[1100px] translate-x-[-254px] translate-y-[calc(-505px_-_480px_/_2_+_100vh_/_2)] lg:h-[2307px] lg:w-[846px] lg:translate-x-[-174px] lg:translate-y-[calc(-388px_-_369px_/_2_+_100vh_/_2)] md:hidden">
             <RiveComponent />
           </div>
         </div>

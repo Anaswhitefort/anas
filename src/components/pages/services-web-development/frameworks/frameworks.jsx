@@ -29,7 +29,7 @@ const titleItems = [
   { value: 'leverage' },
   { value: 'the' },
   { value: 'greatest' },
-  { value: 'React', color: '#ee2b6c' },
+  { value: 'React', color: '#dec000' },
   { value: 'frameworks' },
 ];
 
@@ -119,7 +119,7 @@ const Frameworks = () => {
           ref={itemsWrapperRef}
         >
           <motion.div
-            className="relative flex min-h-[224px] items-center justify-between overflow-hidden rounded-2xl pl-10 pr-6 lg:min-h-[168px] lg:rounded-xl lg:pl-7 md:min-h-[140px] md:py-8 md:px-4 md:pl-12 md:pr-7 sm:flex sm:flex-col sm:items-start sm:justify-between sm:p-5"
+            className="relative flex min-h-[224px] items-center justify-between overflow-hidden rounded-2xl pl-10 pr-6 lg:min-h-[168px] lg:rounded-xl lg:pl-7 md:min-h-[140px] md:px-4 md:py-8 md:pl-12 md:pr-7 sm:flex sm:flex-col sm:items-start sm:justify-between sm:p-5"
             variants={itemVariants}
             style={{ background: 'linear-gradient(261.85deg, #773399 19.08%, #402060 81.57%)' }}
           >
@@ -129,7 +129,7 @@ const Frameworks = () => {
               Best for building SEO-friendly, high-performing marketing websites
             </p>
             <img
-              className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+              className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
               src={gatsbyBackground}
               alt=""
               loading="lazy"
@@ -139,7 +139,7 @@ const Frameworks = () => {
           <div className="mt-8 flex space-x-8 lg:mt-7 lg:space-x-7 md:mt-5 md:space-x-5 sm:block sm:space-x-0 sm:space-y-4">
             {items.map(({ logo: Logo, name, description }, index) => (
               <motion.div
-                className="flex min-h-[224px] w-1/2 flex-col items-start justify-between rounded-2xl bg-gray-9 px-6 pt-4 pb-5 lg:min-h-[168px] lg:rounded-xl lg:px-5 lg:pt-3 md:min-h-[140px] sm:w-full"
+                className="flex min-h-[224px] w-1/2 flex-col items-start justify-between rounded-2xl bg-gray-9 px-6 pb-5 pt-4 lg:min-h-[168px] lg:rounded-xl lg:px-5 lg:pt-3 md:min-h-[140px] sm:w-full"
                 variants={itemVariants}
                 key={index}
               >

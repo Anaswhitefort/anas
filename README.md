@@ -4,7 +4,7 @@
 
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=alex_barashkov">
-  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/alex_barashkov?color=%23ee2b6c&label=Follow%20Pixel%20Point%20on%20Twitter&labelColor=black&logoColor=%23ee2b6c&style=for-the-badge" />
+  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/alex_barashkov?color=%23dec000&label=Follow%20Pixel%20Point%20on%20Twitter&labelColor=black&logoColor=%23dec000&style=for-the-badge" />
 </a>
 </p>
 

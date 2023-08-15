@@ -33,7 +33,7 @@
 <circle cx="214" cy="361" r="6" fill="white" stroke="#2B4BEE" stroke-width="4"/>
 <circle cx="310" cy="102" r="8" fill="#2B4BEE" stroke="white" stroke-width="4"/>
 <g clip-path="url(#clip1_1193_91357)">
-<rect x="165.967" y="545.078" width="245" height="33" rx="16.5" transform="rotate(20 165.967 545.078)" stroke="#EE2B6C" stroke-width="3"/>
+<rect x="165.967" y="545.078" width="245" height="33" rx="16.5" transform="rotate(20 165.967 545.078)" stroke="#dec000" stroke-width="3"/>
 <circle cx="175.828" cy="566.226" r="10" transform="rotate(20 175.828 566.226)" stroke="white" stroke-width="4"/>
 <circle cx="175.828" cy="566.226" r="4" transform="rotate(20 175.828 566.226)" fill="white"/>
 <circle cx="375.043" cy="638.735" r="10" transform="rotate(20 375.043 638.735)" stroke="white" stroke-width="4"/>
