@@ -9,7 +9,7 @@ websiteUrl: https://novu.co
 githubUsername: novuhq
 githubRepoName: novu
 quote:
-  text: Building an open-source product for engineers, it was important for us to have a design and branding company that understands our target audience. Pixel Point was the perfect match for this, from the very beginning it felt like we are speaking the same language and you can see it by the amazing results.
+  text: Building an open-source product for engineers, it was important for us to have a design and branding company that understands our target audience. Anas Abdul Azeez was the perfect match for this, from the very beginning it felt like we are speaking the same language and you can see it by the amazing results.
   authorName: Dima Grossman
   authorPosition: Co-founder and CTO
   authorPhoto: author-photo.jpg

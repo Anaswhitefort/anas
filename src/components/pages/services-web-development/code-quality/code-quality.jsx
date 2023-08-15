@@ -59,7 +59,7 @@ const CodeQuality = () => {
             animate={descriptionControls}
             variants={descriptionVariants}
           >
-            A lean and maintainable code base as a guaranteed part of Pixel Point front-end
+            A lean and maintainable code base as a guaranteed part of Anas Abdul Azeez front-end
             development services.
           </motion.p>
         </div>

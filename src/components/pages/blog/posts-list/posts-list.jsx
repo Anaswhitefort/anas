@@ -13,7 +13,7 @@ const PostsList = ({ activeCategory, items }) => (
   <section className="safe-paddings pt-32 sm:pt-24">
     <div className="container-md">
       <h1 className="text-4xl font-semibold leading-snug lg:text-[32px] sm:text-2xl">
-        Sharing Pixel Point <span className="text-red">Collective experience:</span>
+        Sharing Anas Abdul Azeez <span className="text-red">Collective experience:</span>
       </h1>
       <ul className="scrollbar-hidden relative mt-16 flex space-x-6 overflow-auto pb-px after:absolute after:bottom-0 after:left-0 after:h-px after:w-full after:bg-gray-4 dark:after:bg-gray-8 lg:mt-14 md:mt-12 sm:mt-11">
         {['All', ...BLOG_CATEGORIES].map((category, index) => (
@@ -27,7 +27,7 @@ const PostsList = ({ activeCategory, items }) => (
               to={getBlogPath({ category: category === 'All' ? undefined : category })}
             >
               <span className="invisible font-semibold opacity-0">{category}</span>
-              <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+              <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                 {category}
               </span>
             </Link>

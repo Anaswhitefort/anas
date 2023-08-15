@@ -1,12 +1,12 @@
 ---
 title: 'Probably, your first useful Touch Bar app'
-summary: Stay on mute when you want with Pixel Point’s Touch Bar app - Mute Me.
+summary: Stay on mute when you want with Anas Abdul Azeez’s Touch Bar app - Mute Me.
 author: Alexey Tretyakov
 cover: cover.jpg
 category: Development
 ---
 
-Working with other companies, we always dreamed of devoting some of our time to the realization of our own ideas. But commercial projects were always our top priorities, and there wasn’t much time for passion projects. Now that we have our own business, [Pixel Point](https://pixelpoint.io/), we try to leave enough time for short-term projects that we find especially interesting. It lifts the spirit of our team and allows us to accrue new knowledge so that we can embody our ideals in all of our professional endeavors.
+Working with other companies, we always dreamed of devoting some of our time to the realization of our own ideas. But commercial projects were always our top priorities, and there wasn’t much time for passion projects. Now that we have our own business, [Anas Abdul Azeez](https://pixelpoint.io/), we try to leave enough time for short-term projects that we find especially interesting. It lifts the spirit of our team and allows us to accrue new knowledge so that we can embody our ideals in all of our professional endeavors.
 
 One of these projects is the application we created for MacBook’s Touch Bar: [Mute Me](https://muteme.pixelpoint.io/). In this article, we describe the process of dreaming up and executing this app.
 The idea behind this application for Touch Bar

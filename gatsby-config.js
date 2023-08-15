@@ -6,7 +6,7 @@ module.exports = {
   trailingSlash: 'always',
   flags: { DEV_SSR: process.env.GATSBY_DEV_SSR || false },
   siteMetadata: {
-    siteTitle: 'Pixel Point — Web Design and Development',
+    siteTitle: 'Anas Abdul Azeez — Web Design and Development',
     siteDescription: 'Design and development of JAMStack-based marketing websites',
     siteImage: '/images/social-preview.jpg',
     siteLanguage: 'en',

@@ -10,7 +10,7 @@ In this article, we talk about Drone CI, a very powerful, lightweight, docker-ba
 
 ## I hope we finally changed it…
 
-We at [Pixel Point](https://pixelpoint.io/) use Drone on a lot of different projects, on a day-to-day basis, so we decided to improve it. After months of work, we’re happy to announce new Drone v1.0.0, which is ready to use now.
+We at [Anas Abdul Azeez](https://pixelpoint.io/) use Drone on a lot of different projects, on a day-to-day basis, so we decided to improve it. After months of work, we’re happy to announce new Drone v1.0.0, which is ready to use now.
 
 ### New version
 

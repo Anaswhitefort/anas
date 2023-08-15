@@ -13,7 +13,8 @@ import Layout from 'components/shared/layout';
 import SEO from 'components/shared/seo/seo';
 
 const advantages = {
-  title: 'It doesn’t have to be like that. Work&nbsp;with&nbsp;Pixel Point to see the difference:',
+  title:
+    'It doesn’t have to be like that. Work&nbsp;with&nbsp;Anas Abdul Azeez to see the difference:',
   items: [
     {
       title: 'Professional team',
@@ -23,7 +24,7 @@ const advantages = {
     {
       title: 'Communication-oriented',
       description:
-        'Communication is the key to any successful relationship. At Pixel Point we answer in a matter of hours, eagerly joining requirements discussions and deliver constant updates, making our work as transparent as it possible.',
+        'Communication is the key to any successful relationship. At Anas Abdul Azeez we answer in a matter of hours, eagerly joining requirements discussions and deliver constant updates, making our work as transparent as it possible.',
     },
     {
       title: 'On the same page with you',

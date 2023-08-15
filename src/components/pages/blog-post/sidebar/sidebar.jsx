@@ -31,7 +31,7 @@ const Sidebar = ({ author, readMorePosts, socialShareUrl }) => (
         </Link>
       )}
       <h2 className="mt-8 border-t border-t-gray-4 pt-8 text-lg font-semibold dark:border-t-gray-8">
-        More from Pixel Point
+        More from Anas Abdul Azeez
       </h2>
       <ul className="mt-5 space-y-6">
         {readMorePosts.map(({ slug, frontmatter: { title, smallCover: cover } }, index) => (

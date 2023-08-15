@@ -7,10 +7,10 @@ import Logo from 'images/logo.inline.svg';
 
 const Footer = () => (
   <footer className="safe-paddings bg-black">
-    <div className="container flex justify-between pt-10 pb-14 md:pt-0 sm:block sm:py-6">
+    <div className="container flex justify-between pb-14 pt-10 md:pt-0 sm:block sm:py-6">
       <div className="flex flex-col items-start justify-between">
         <Link to="/">
-          <span className="sr-only">Pixel Point</span>
+          <span className="sr-only">Anas Abdul Azeez</span>
           <Logo className="h-9" aria-hidden />
         </Link>
         <Link className="sm:hidden" to={LINKS.email} size="base" theme="underline-red">

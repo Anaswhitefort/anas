@@ -5,13 +5,13 @@ import illustration from './images/illustration.svg';
 
 const Foundation = () => (
   <section className="safe-paddings bg-black pt-52 text-white lg:pt-36 md:pt-32 sm:pt-20">
-    <div className="container grid grid-cols-12 items-center gap-x-8 md:grid-cols-1 md:gap-y-11 md:gap-x-0 sm:gap-y-8">
+    <div className="container grid grid-cols-12 items-center gap-x-8 md:grid-cols-1 md:gap-x-0 md:gap-y-11 sm:gap-y-8">
       <div className="col-span-5 md:col-span-full">
         <h2 className="max-w-[488px] text-6xl font-normal leading-snug lg:text-[42px] md:text-4xl sm:text-2xl">
           The Foundation
         </h2>
         <p className="mt-5 max-w-[488px] text-lg leading-normal md:mt-3 sm:mt-2.5 sm:text-base">
-          Creative web agency Pixel Point has been founded in 2017 and operating since at the
+          Creative web agency Anas Abdul Azeez has been founded in 2017 and operating since at the
           headquarters based in France. However, we keep being a remote friendly company, as
           talented people can be found anywhere around the globe.
         </p>

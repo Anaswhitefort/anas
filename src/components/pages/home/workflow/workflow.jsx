@@ -24,7 +24,7 @@ const items = [
   {
     title: 'Launch',
     description:
-      'Pixel Point will share this important moment with you, backing you up on any related tech question, whether it is choosing a proper deploy platform, setting up ci/cd pipelines, content migration or gradual rollout.',
+      'Anas Abdul Azeez will share this important moment with you, backing you up on any related tech question, whether it is choosing a proper deploy platform, setting up ci/cd pipelines, content migration or gradual rollout.',
   },
   {
     title: 'Maintenance',

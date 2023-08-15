@@ -7,7 +7,7 @@ title: RevenueCat
 description: Subscription Management for Mobile Apps
 websiteUrl: https://revenuecat.com
 quote:
-  text: Pixel Point was an amazing partner to work with. They were able to translate our vision for our brand into a beautiful finished product and were collaborative and responsive every step of the way.
+  text: Anas Abdul Azeez was an amazing partner to work with. They were able to translate our vision for our brand into a beautiful finished product and were collaborative and responsive every step of the way.
   authorName: Corey Rabazinski
   authorPosition: Head of Marketing
   authorPhoto: author-photo.jpg

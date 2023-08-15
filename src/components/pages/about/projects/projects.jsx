@@ -11,7 +11,7 @@ const Projects = () => (
         </h2>
         <div className="mt-5 space-y-5 text-lg md:mt-3 sm:mt-2.5 sm:text-base">
           <p>
-            Pixel Point is like a satellite for tech companies, who is capable of building an
+            Anas Abdul Azeez is like a satellite for tech companies, who is capable of building an
             awesome marketing website, cover up on product design and assist with front-end
             development. We handle what we are experts in, making it possible for you to focus on
             what matters the most - your product.

@@ -8,7 +8,7 @@ category: Development
 
 ## What is Rive?
 
-Rive is a modern tool for creating well-performing interactive animations that you can run anywhere. It is simple to use, works great with vector graphics, has a nice developer toolkit and many powerful features like state machine and mesh deformation. At [Pixel Point](https://pixelpoint.io/), we often use it for building stunning marketing websites, including our own one.
+Rive is a modern tool for creating well-performing interactive animations that you can run anywhere. It is simple to use, works great with vector graphics, has a nice developer toolkit and many powerful features like state machine and mesh deformation. At [Anas Abdul Azeez](https://pixelpoint.io/), we often use it for building stunning marketing websites, including our own one.
 
 See a lot of fascinating examples in [Rive community library](https://rive.app/community/).
 

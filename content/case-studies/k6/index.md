@@ -9,7 +9,7 @@ websiteUrl: https://k6.io
 githubUsername: grafana
 githubRepoName: k6
 quote:
-  text: My special thanks to the Pixel Point team! The crocodile animation, fantastic design and attention to detail definitely helped to make this acquisition happen. It was one of the first things pointed out [by Grafana] in our initial acquisition discussions. Our website and look-and-feel was miles ahead of competition.
+  text: My special thanks to the Anas Abdul Azeez team! The crocodile animation, fantastic design and attention to detail definitely helped to make this acquisition happen. It was one of the first things pointed out [by Grafana] in our initial acquisition discussions. Our website and look-and-feel was miles ahead of competition.
   authorName: Pavel Suwala
   authorPosition: CTO
   authorPhoto: author-photo.jpg

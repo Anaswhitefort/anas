@@ -1,7 +1,7 @@
 ---
 title: 'Top 10 open-source SaaS that could help you build the next big thing '
 author: Alex Barashkov
-summary: An opinionated list of my favorite open source SaaS tools we use in Pixel Point to build projects.
+summary: An opinionated list of my favorite open source SaaS tools we use in Anas Abdul Azeez to build projects.
 cover: cover.jpg
 category: Development
 ---
